@@ -1,0 +1,22 @@
+# Core ML dependencies
+torch==2.0.1
+torchvision==0.15.2
+transformers==4.35.2
+sentence-transformers==2.2.2
+Pillow==9.5.0
+numpy==1.21.6
+requests==2.31.0
+protobuf==3.20.3
+huggingface-hub==0.17.3
+tokenizers==0.14.1
+safetensors==0.4.0
+
+# LangChain dependencies
+langchain==0.0.350
+langchain-community==0.0.1
+chromadb==0.4.15
+
+# Additional utilities
+pydantic==1.10.13
+sqlalchemy==1.4.53
+tenacity==8.2.3
